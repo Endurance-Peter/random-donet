@@ -1,0 +1,11 @@
+C:\Users\endurance.peter\Desktop\random\SampleApi\out\SampleApi.exe
+C:\Users\endurance.peter\Desktop\random\SampleApi\out\appsettings.Development.json
+C:\Users\endurance.peter\Desktop\random\SampleApi\out\appsettings.json
+C:\Users\endurance.peter\Desktop\random\SampleApi\out\SampleApi.dll
+C:\Users\endurance.peter\Desktop\random\SampleApi\out\SampleApi.deps.json
+C:\Users\endurance.peter\Desktop\random\SampleApi\out\SampleApi.runtimeconfig.json
+C:\Users\endurance.peter\Desktop\random\SampleApi\out\SampleApi.pdb
+C:\Users\endurance.peter\Desktop\random\SampleApi\out\Microsoft.OpenApi.dll
+C:\Users\endurance.peter\Desktop\random\SampleApi\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\endurance.peter\Desktop\random\SampleApi\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\endurance.peter\Desktop\random\SampleApi\out\Swashbuckle.AspNetCore.SwaggerUI.dll
